@@ -9,7 +9,7 @@ My academic focus is on **Software Engineering**, and I am currently expanding m
 * **Core Languages:** Java, C++, C
 * **Web Technologies:** HTML, CSS, JavaScript
 * **Data Science & AI:** Python (Machine Learning applications)
-* **Parallel Computing:** MPI (Message Passing Interface) programming
+* **Parallel Computing:** MPI programming
 
 #### 📫 Connect with me
 * **University Email:** [ice23390077@uniwa.gr](mailto:ice23390077@uniwa.gr)
