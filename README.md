@@ -9,6 +9,7 @@ My academic focus is on **Software Engineering**, and willing to expand my speci
 * **Core Languages:** Java, C++, C
 * **Web Technologies:** HTML, CSS, JavaScript
 * **Data Science & AI:** Python (Machine Learning applications)
+* **Databases:** SQL
 * **Parallel Computing:** MPI programming
 
 #### 📫 Connect with me
