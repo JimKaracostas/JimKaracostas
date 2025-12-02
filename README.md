@@ -1,16 +1,70 @@
-## Hi there 👋
-I'm Jim Karacostas
-<!--
-**JimKaracostas/JimKaracostas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Jim Karacostas 👋
 
-Here are some ideas to get you started:
+I am an undergraduate student at the **University of West Attica (UniWA)** in Athens, Greece, majoring in **Informatics and Computer Engineering (ICE)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic focus is on software engineering, specifically the intersection of Artificial Intelligence and High-Performance Computing.
+
+#### 🔧 Technical Stack
+
+* **Core Languages:** Java, C++, C
+* **Web Technologies:** HTML, CSS, JavaScript
+* **Data Science & AI:** Python (Machine Learning applications)
+* **Parallel Computing:** MPI (Message Passing Interface) programming
+
+#### 🏛️ Academic Focus
+I am currently expanding my knowledge in:
+* Algorithmic thinking and Data Structures.
+* Parallel processing and optimization.
+* AI model implementation.
+
+#### 📫 Connect with me
+* **University Email:** [your_std_email]@uniwa.gr
+* **LinkedIn:** [linkedin.com/in/yourprofile]
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)### Hi, I'm Jim Karacostas 👋
+
+I am an undergraduate student at the **University of West Attica (UniWA)** in Athens, Greece, majoring in **Informatics and Computer Engineering (ICE)**.
+
+My academic focus is on software engineering, specifically the intersection of Artificial Intelligence and High-Performance Computing.
+
+#### 🔧 Technical Stack
+
+* **Core Languages:** Java, C++, C
+* **Web Technologies:** HTML, CSS, JavaScript
+* **Data Science & AI:** Python (Machine Learning applications)
+* **Parallel Computing:** MPI (Message Passing Interface) programming
+
+#### 🏛️ Academic Focus
+I am currently expanding my knowledge in:
+* Algorithmic thinking and Data Structures.
+* Parallel processing and optimization.
+* AI model implementation.
+
+#### 📫 Connect with me
+* **University Email:** [your_std_email]@uniwa.gr
+* **LinkedIn:** [linkedin.com/in/yourprofile]
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)### Hi, I'm [Your Name] 👋
+
+I am an undergraduate student at the **University of West Attica (UniWA)** in Athens, Greece, majoring in **Informatics and Computer Engineering (ICE)**.
+
+My academic focus is on software engineering, specifically the intersection of Artificial Intelligence and High-Performance Computing.
+
+#### 🔧 Technical Stack
+
+* **Core Languages:** Java, C++, C
+* **Web Technologies:** HTML, CSS, JavaScript
+* **Data Science & AI:** Python (Machine Learning applications)
+* **Parallel Computing:** MPI (Message Passing Interface) programming
+
+#### 🏛️ Academic Focus
+I am currently expanding my knowledge in:
+* Algorithmic thinking and Data Structures.
+* Parallel processing and optimization.
+* AI model implementation.
+
+#### 📫 Connect with me
+* **University Email:** [your_std_email]@uniwa.gr
+* **LinkedIn:** [linkedin.com/in/yourprofile]
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
