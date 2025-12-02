@@ -11,60 +11,10 @@ My academic focus is on software engineering, specifically the intersection of A
 * **Data Science & AI:** Python (Machine Learning applications)
 * **Parallel Computing:** MPI (Message Passing Interface) programming
 
-#### 🏛️ Academic Focus
-I am currently expanding my knowledge in:
-* Algorithmic thinking and Data Structures.
-* Parallel processing and optimization.
-* AI model implementation.
-
 #### 📫 Connect with me
-* **University Email:** [your_std_email]@uniwa.gr
-* **LinkedIn:** [linkedin.com/in/yourprofile]
+* **University Email:** ice23390077@uniwa.gr
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/%CE%B4%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82-%CE%BA%CE%B1%CF%81%CE%B1%CE%BA%CF%8E%CF%83%CF%84%CE%B1%CF%82-974513376/)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)### Hi, I'm Jim Karacostas 👋
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JimKaracostas&show_icons=true&hide_border=true)
 
-I am an undergraduate student at the **University of West Attica (UniWA)** in Athens, Greece, majoring in **Informatics and Computer Engineering (ICE)**.
 
-My academic focus is on software engineering, specifically the intersection of Artificial Intelligence and High-Performance Computing.
-
-#### 🔧 Technical Stack
-
-* **Core Languages:** Java, C++, C
-* **Web Technologies:** HTML, CSS, JavaScript
-* **Data Science & AI:** Python (Machine Learning applications)
-* **Parallel Computing:** MPI (Message Passing Interface) programming
-
-#### 🏛️ Academic Focus
-I am currently expanding my knowledge in:
-* Algorithmic thinking and Data Structures.
-* Parallel processing and optimization.
-* AI model implementation.
-
-#### 📫 Connect with me
-* **University Email:** [your_std_email]@uniwa.gr
-* **LinkedIn:** [linkedin.com/in/yourprofile]
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)### Hi, I'm [Your Name] 👋
-
-I am an undergraduate student at the **University of West Attica (UniWA)** in Athens, Greece, majoring in **Informatics and Computer Engineering (ICE)**.
-
-My academic focus is on software engineering, specifically the intersection of Artificial Intelligence and High-Performance Computing.
-
-#### 🔧 Technical Stack
-
-* **Core Languages:** Java, C++, C
-* **Web Technologies:** HTML, CSS, JavaScript
-* **Data Science & AI:** Python (Machine Learning applications)
-* **Parallel Computing:** MPI (Message Passing Interface) programming
-
-#### 🏛️ Academic Focus
-I am currently expanding my knowledge in:
-* Algorithmic thinking and Data Structures.
-* Parallel processing and optimization.
-* AI model implementation.
-
-#### 📫 Connect with me
-* **University Email:** [your_std_email]@uniwa.gr
-* **LinkedIn:** [linkedin.com/in/yourprofile]
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
