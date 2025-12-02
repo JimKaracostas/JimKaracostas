@@ -2,7 +2,7 @@
 
 I am an undergraduate student at the **University of West Attica (UniWA)** in Athens, Greece, majoring in **Informatics and Computer Engineering (ICE)**.
 
-My academic focus is on **Software Engineering**, and I am currently expanding my specialization towards **Artificial Intelligence** and **Cybersecurity**.
+My academic focus is on **Software Engineering**, and willing to expand my specialization towards **Artificial Intelligence** and **Cybersecurity**.
 
 #### 🔧 Technical Stack
 
