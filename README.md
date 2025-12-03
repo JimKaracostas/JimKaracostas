@@ -16,8 +16,3 @@ My academic focus is on **Software Engineering**, and willing to expand my speci
 * **University Email:** [ice23390077@uniwa.gr](mailto:ice23390077@uniwa.gr)
 * **Personal Email:** [karacostasj@gmail.com](karacostasj@gmail.com)
 * **LinkedIn:** [Jim Karacostas](www.linkedin.com/in/jimkaracostas)
-
----
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JimKaracostas&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimKaracostas&layout=compact&hide_border=true)
