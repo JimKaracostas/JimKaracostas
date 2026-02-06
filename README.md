@@ -1,18 +1,22 @@
-### Hi, I'm Jim Karacostas 👋
+### Hi there, I'm Jim Karacostas! 👋
+Computer Engineering Undergraduate @ UniWA 🇬🇷
 
-I am an undergraduate student at the **University of West Attica (UniWA)** in Athens, Greece, majoring in **Informatics and Computer Engineering (ICE)**.
+I build software with a focus on engineering fundamentals, currently bridging the gap into AI and Cybersecurity. I love solving complex problems, from parallel computing to web applications.
 
-My academic focus is on **Software Engineering**, and willing to expand my specialization towards **Artificial Intelligence** and **Cybersecurity**.
+##💻 The Stack
+Languages: Java C++ C Python
 
-#### 🔧 Technical Stack
+Web: HTML CSS JavaScript
 
-* **Core Languages:** Java, C++, C
-* **Web Technologies:** HTML, CSS, JavaScript
-* **Data Science & AI:** Python (Machine Learning applications)
-* **Databases:** SQL
-* **Parallel Computing:** MPI programming
+Data: SQL Machine Learning
 
-#### 📫 Connect with me
-* **University Email:** [ice23390077@uniwa.gr](mailto:ice23390077@uniwa.gr)
-* **Personal Email:** [karacostasj@gmail.com](karacostasj@gmail.com)
-* **LinkedIn:** [Jim Karacostas](www.linkedin.com/in/jimkaracostas)
+Advanced: MPI (Parallel Computing)
+
+##🤝 Get in Touch
+Let's talk code, security, or AI.
+
+LinkedIn: Jim Karacostas
+
+Personal: karacostasj@gmail.com
+
+Academic: ice23390077@uniwa.gr
