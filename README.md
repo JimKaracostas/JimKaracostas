@@ -1,19 +1,16 @@
 ## Hi there, I'm Jim Karacostas! 👋
-Computer Engineering Undergraduate @ UniWA 🇬🇷
-
-I build software with a focus on engineering fundamentals, currently bridging the gap into AI and Cybersecurity. I love solving complex problems, from parallel computing to web applications.
+Informatics and Computer Engineering Undergraduate at University of West Attica
+I am actively expanding my expertise into Artificial Intelligence and Cybersecurit.
 
 ### 💻 The Stack
-Languages: Java C++ C Python
+Systems & Logic: Java, C++, C, MPI (Parallel Computing)
 
-Web: HTML CSS JavaScript
+Web Development: HTML5, CSS3, JavaScript
 
-Data: SQL Machine Learning
-
-Also: MPI (Parallel Computing)
+Data & Intelligence: Python (Machine Learning), SQL
 
 ### 🤝 Get in Touch
-Let's talk code, security, or AI.
+Let's talk.
 
 LinkedIn: Jim Karacostas
 
