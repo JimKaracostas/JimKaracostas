@@ -12,8 +12,8 @@ Data & Intelligence: Python (Machine Learning), SQL
 ### 🤝 Get in Touch
 Let's talk.
 
-LinkedIn: Jim Karacostas
+LinkedIn: [Jim Karacostas](https://www.linkedin.com/in/jimkaracostas/)
 
-Personal: karacostasj@gmail.com
+Personal: [karacostasj@gmail.com](karacostasj@gmail.com)
 
-Academic: ice23390077@uniwa.gr
+Academic: [ice23390077@uniwa.gr](ice23390077@uniwa.gr)
