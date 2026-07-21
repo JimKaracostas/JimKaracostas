@@ -6,12 +6,6 @@
   <strong>Informatics and Computer Engineering Undergraduate at University of West Attica</strong>
 </p>
 
-<p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
-</p>
-
 <hr>
 
 I am an Informatics and Computer Engineering student actively expanding my expertise into **Artificial Intelligence** and **Cybersecurity**. I love building clean, responsive applications and working on low-level system integrations.
